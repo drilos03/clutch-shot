@@ -3,7 +3,6 @@
 一个围绕出手节奏、连击奖励与短局重玩的篮球网页小游戏。个人练习作品，使用 Codex 辅助开发。
 
 
-![Uploading image.png…]()
 
 ![游戏预览](preview.jpg)
 
