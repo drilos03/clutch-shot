@@ -4,6 +4,8 @@
 
 
 
+![投篮游戏界面](gameplay.png)
+
 ![游戏预览](preview.jpg)
 
 ## 玩法
